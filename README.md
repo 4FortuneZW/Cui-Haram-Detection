@@ -20,7 +20,7 @@ The main functionality of the project is encapsulated in the `NSFWDetection` cla
 
 ## Example
 
-<img src="images/example.png" raw=true>
+[Images is already delete because images, is haram]
 
 https://github.com/trumanwong/ComfyUI-NSFW-Detection/blob/main/workflow.json
 
